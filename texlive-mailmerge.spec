@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Repeating text field substitution
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mailmerge
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mailmerge
 License:	LPPL1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mailmerge.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mailmerge.doc.r%{version}.tar.xz
